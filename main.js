@@ -1,5 +1,5 @@
 function logIn() {
-    var pass = prompt("Please enter the password", "Password");
+    var pass = document.getElementById("input").value;
     if (pass == "abcd") {
         window.location.replace('main.html');
     } else {
