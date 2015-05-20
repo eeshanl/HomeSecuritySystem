@@ -9,3 +9,16 @@ function logIn() {
       }
     }
 }
+
+var secure1 = 0;
+var secure2 = 0;
+var secure3 = 0;
+var secure4 = 0;
+
+function secure() {
+  
+}
+
+function securityCheck() {
+
+}

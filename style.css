@@ -4,7 +4,11 @@
 
 .login {
 	position: relative;
-	left: 300px;
+	margin-left: 365px;
+}
+
+.yolo {
+	text-align: center;
 }
 
 /*body {
